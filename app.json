@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bin2dec",
+    "slug": "bin2dec",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bin2dec"
+}
